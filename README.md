@@ -5,7 +5,7 @@ To install fix:
 
 1 .You can download compiled filed from releases.
 
-or compile file using gxt2:
+or compile .oxt file using gxt2:
 https://github.com/lollolong/gxt2
 
 2. In lml folder create folder "Challenge 2 Objective Description Fix" and put both files there: challengeObjective.gxt2 , install.xml
