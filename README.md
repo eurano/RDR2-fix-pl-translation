@@ -3,7 +3,7 @@ https://www.rdr2mods.com/downloads/rdr2/tools/76-lennys-mod-loader-rdr/
 
 To install fix:
 
-1 .You can download compiled filed from relases.
+1 .You can download compiled filed from releases.
 
 or compile file using gxt2:
 https://github.com/lollolong/gxt2
