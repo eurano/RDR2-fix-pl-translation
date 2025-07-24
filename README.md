@@ -8,7 +8,7 @@ To install fix:
 or compile file using gxt2:
 https://github.com/lollolong/gxt2
 
-2. In lml folder create folder "Challenge 5 Objective Description Fix" and put both files there:
+2. In lml folder create folder "Challenge Objective Description Fix" and put both files there:
 challenge5Objective.gxt2
 install.xml
 
